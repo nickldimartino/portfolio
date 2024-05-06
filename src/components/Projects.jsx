@@ -45,7 +45,7 @@ const Projects = () => {
                 <a
                   href={project.source}
                   target="_blank"
-                  className="text-sm text-neutral-500 hover:underline"
+                  className="text-md text-neutral-500 hover:text-neutral-800 hover:border-neutral-800 border-neutral-500 border-b-2 border-t-2"
                 >
                   Source Code
                 </a>
@@ -54,7 +54,7 @@ const Projects = () => {
                   <a
                     href={project.website}
                     target="_blank"
-                    className="ml-3 text-sm text-neutral-500 hover:underline"
+                    className="ml-10 text-md text-neutral-500 hover:text-neutral-800 hover:border-neutral-800 border-neutral-500 border-b-2 border-t-2"
                   >
                     Visit Page
                   </a>
