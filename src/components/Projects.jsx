@@ -1,15 +1,10 @@
-import React from "react";
 import { PROJECTS } from "../constants";
 import { motion } from "framer-motion";
 
 const Projects = () => {
   return (
     <div id="projects" className="border-b border-neutral-900 pb-4">
-      <h2
-        className="my-20 text-center text-4xl  font-semibold"
-      >
-        Projects
-      </h2>
+      <h2 className="my-20 text-center text-4xl  font-semibold">Projects</h2>
       <div>
         {PROJECTS.map((project, index) => (
           <div
@@ -54,7 +49,8 @@ const Projects = () => {
                 >
                   Source Code
                 </a>
-                {project.title !== "Py-Pac-Poe" && project.title !== "TriFit" ? (
+                {project.title !== "Py-Pac-Poe" &&
+                project.title !== "TriFit" ? (
                   <a
                     href={project.website}
                     target="_blank"

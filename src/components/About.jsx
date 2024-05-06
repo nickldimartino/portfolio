@@ -1,13 +1,10 @@
-import React from "react";
 import { ABOUT_TEXT } from "../constants/index";
 import { motion } from "framer-motion";
 
 const About = () => {
   return (
     <div id="about" className="border-b border-neutral-900 pb-4">
-      <h2 className="my-20 text-center text-4xl font-semibold">
-        About Me
-      </h2>
+      <h2 className="my-20 text-center text-4xl font-semibold">About Me</h2>
       <div className="flex justify-center">
         <motion.div
           whileInView={{ opacity: 1, y: 0 }}

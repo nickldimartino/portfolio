@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import logo from "../assets/portfolio-logo.png";
 import { SiGithub, SiLinkedin } from "react-icons/si";
 import { MdEmail } from "react-icons/md";

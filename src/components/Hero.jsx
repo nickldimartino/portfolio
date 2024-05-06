@@ -1,4 +1,3 @@
-import React from "react";
 import { HERO_CONTENT } from "../constants/index";
 import profilePic from "../assets/profile-pic.jpg";
 import { motion } from "framer-motion";
