@@ -115,8 +115,8 @@ export const EXPERIENCES = [
     company: "University of Massachusetts Amherst",
     companyWebsite: "https://www.umass.edu/",
     description: [
-      "Big Brother Big Sister - Mentor: Big Brother Big Sister is an organization that pairs an adult with an adolescent to help build resilience, mental health, and well-being so that he or she will have an enriched, brighter future.",
       "Theta Chi Fraternity - Risk Manager, House Manager, Standard's Board, and Project Chair",
+      "Big Brother Big Sister - Mentor: Big Brother Big Sister is an organization that pairs an adult with an adolescent to help build resilience, mental health, and well-being so that he or she will have an enriched, brighter future.",
     ],
     technologies: [
       "Software Development",
