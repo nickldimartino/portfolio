@@ -1,13 +1,16 @@
 # <h1 align="center">My Portfolio</h1>
 
-#### <h3 align="center"><a href="">Heroku Link Coming Soon...</a></h3>
+#### <h3 align="center"><a href="https://nickldimartino.github.io/portfolio/">Github Pages Site</a></h3>
 
 <div align="center">
+ <a href="https://nickldimartino.github.io/portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/My%20Portfolio-16a34a">
+ </a>
  <a href="https://www.linkedin.com/in/nicholas-dimartino/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/nicholasdimartino-blue?style=flat&logo=Linkedin&logoColor=white">
  </a> 
  <a href="mailto:nick.l.dimartino@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-nick.l.dimartino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/-nick.l.dimartino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
 </div>
 
@@ -73,13 +76,11 @@ Welcome to my online portfolio! Using React + Vite, JavaScript, and Tailwind CSS
 ### 🔗 Links
 
 <details>
-<summary>Heroku Link</summary>
+<summary>Github Pages Link</summary>
 
-<a href="">Coming soon...</a>
+<a href="https://nickldimartino.github.io/portfolio/">https://nickldimartino.github.io/portfolio/</a>
 
 </details>
-
-<details>
 
 ## ⏭️ Next Steps
 
