@@ -12,6 +12,7 @@ import {
   SiMarkdown,
   SiMongodb,
   SiMongoose,
+  SiNextdotjs,
   SiNodedotjs,
   SiPostgresql,
   SiPostman,
@@ -47,6 +48,15 @@ const Technologies = () => {
         transition={{ duration: 1.5 }}
         className="flex flex-wrap items-center justify-center gap-4"
       >
+        <motion.div
+          variants={iconVariants(2.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiNextdotjs className="text-7xl text-next" />
+          <p className="flex justify-center mt-1 text-next text-sm">Next</p>
+        </motion.div>
         <motion.div
           variants={iconVariants(2.5)}
           initial="initial"

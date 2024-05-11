@@ -7,6 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        next: "#05427c",
         react: "#61dafb",
         typescript: "#3178c6",
         javascript: "#F0DB4F",
