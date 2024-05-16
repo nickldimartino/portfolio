@@ -127,6 +127,15 @@ const Technologies = () => {
           </p>
         </motion.div>
         <motion.div
+          variants={iconVariants(1)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiPrisma className="text-7xl text-prisma" />
+          <p className="flex justify-center mt-1 text-prisma text-sm">Prisma</p>
+        </motion.div>
+        <motion.div
           variants={iconVariants(2.4)}
           initial="initial"
           animate="animate"
@@ -223,15 +232,6 @@ const Technologies = () => {
           <p className="flex justify-center mt-1 text-mongoose text-sm">
             Mongoose
           </p>
-        </motion.div>
-        <motion.div
-          variants={iconVariants(1)}
-          initial="initial"
-          animate="animate"
-          className="rounded-2xl border-4 border-neutral-800 p-4"
-        >
-          <SiPrisma className="text-7xl text-prisma" />
-          <p className="flex justify-center mt-1 text-prisma text-sm">Prisma</p>
         </motion.div>
         <motion.div
           variants={iconVariants(1.4)}
