@@ -98,6 +98,24 @@ const Technologies = () => {
           <p className="flex justify-center mt-1 text-node text-sm">Node</p>
         </motion.div>
         <motion.div
+          variants={iconVariants(4.6)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiPython className="text-7xl text-python" />
+          <p className="flex justify-center mt-1 text-python text-sm">Python</p>
+        </motion.div>
+        <motion.div
+          variants={iconVariants(2.8)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <TbBrandCpp className="text-7xl text-cpp" />
+          <p className="flex justify-center mt-1 text-cpp text-sm">C++</p>
+        </motion.div>
+        <motion.div
           variants={iconVariants(5)}
           initial="initial"
           animate="animate"
@@ -107,26 +125,6 @@ const Technologies = () => {
           <p className="flex justify-center mt-1 text-mongodb text-sm">
             MongoDB
           </p>
-          <motion.div
-            variants={iconVariants(4.6)}
-            initial="initial"
-            animate="animate"
-            className="rounded-2xl border-4 border-neutral-800 p-4"
-          >
-            <SiPython className="text-7xl text-python" />
-            <p className="flex justify-center mt-1 text-python text-sm">
-              Python
-            </p>
-          </motion.div>
-          <motion.div
-            variants={iconVariants(2.8)}
-            initial="initial"
-            animate="animate"
-            className="rounded-2xl border-4 border-neutral-800 p-4"
-          >
-            <TbBrandCpp className="text-7xl text-cpp" />
-            <p className="flex justify-center mt-1 text-cpp text-sm">C++</p>
-          </motion.div>
         </motion.div>
         <motion.div
           variants={iconVariants(2.4)}
