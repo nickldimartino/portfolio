@@ -14,8 +14,8 @@ import {
   SiMongoose,
   SiNextdotjs,
   SiNodedotjs,
-  SiPostgresql,
   SiPostman,
+  SiPrisma,
   SiPython,
   SiReact,
   SiTailwindcss,
@@ -230,9 +230,9 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiPostgresql className="text-7xl text-postgresql" />
-          <p className="flex justify-center mt-1 text-postgresql text-sm">
-            PostgreSQL
+          <SiPrisma  className="text-7xl text-prisma" />
+          <p className="flex justify-center mt-1 text-prisma text-sm">
+            Prisma
           </p>
         </motion.div>
         <motion.div
