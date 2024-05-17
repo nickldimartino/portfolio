@@ -31,9 +31,9 @@ export const navLinks = [
   },
 ];
 
-export const HERO_CONTENT = `As a Full-Stack Software Engineer, I am eager to transition from two years in embedded software to the dynamic realm of full-stack web development. My military experience instilled in me the importance of discipline and teamwork, shaping me into an engineer who thrives in challenging environments that foster growth and innovation. With meticulous attention to detail and a procedural mindset developed through experiences in the military, academia, bodybuilding, and the defense industry, I tackle challenges with a positive and focused attitude. I am now actively seeking opportunities to demonstrate my capabilities in a Full-Stack Software Engineer role, prepared to bring my unique perspective and skills to the forefront.`;
+export const HERO_CONTENT = `As an experienced Software Engineer, I am eager to transition from my web development at General Assembly and two years in embedded software to my next Software Engineering role. My military experience instilled in me the importance of discipline and teamwork, shaping me into an engineer who thrives in challenging environments that foster growth and innovation. With meticulous attention to detail and a procedural mindset developed through experiences in the military, academia, bodybuilding, and the defense industry, I tackle challenges with a positive and focused attitude. I am now actively seeking opportunities to demonstrate my capabilities in a Software Engineer role, prepared to bring my unique perspective and skills to the forefront.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack software engineer with a passion for creating efficient and user-friendly web applications. With 3 years of professional experience, I have worked with a variety of technologies, including React, TypeScript, Node.js, Express, MongoDB, Python, and C++. My journey in software began when I was 15, and my curiosity for learning how things work evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in a variety of environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy bodybuilding, snowboarding, Electronic Dance Music (EDM), video games, anime, reading, and tending to my cat who requires unwavering attention.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full stack software engineer with a passion for creating efficient and user-friendly web applications. With 3 years of professional experience, I have worked with a variety of technologies, including Next, React, TypeScript, Node.js, Express, MongoDB, Python, and C++. My journey in software began when I was 15, and my curiosity for learning how things work evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in a variety of environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy bodybuilding, snowboarding, Electronic Dance Music (EDM), video games, anime, reading, and tending to my cat who requires unwavering attention.`;
 
 export const EXPERIENCES = [
   {
@@ -42,7 +42,10 @@ export const EXPERIENCES = [
     company: "General Assembly",
     companyWebsite: "https://generalassemb.ly/",
     description: [
-      `Full time bootcamp student in the Software Engineering Bootcamp that included 480+ hours of professional training over twelve weeks. Utilized a hands-on approach to practice user-centered design Software Engineering methods, including technical skills, team collaboration, and client relations.`,
+      `Completed a full-time Software Engineering Bootcamp, comprising over 420 hours of intensive professional training spanning twelve weeks.`,
+      `Applied a hands-on approach to master user-centered design principles and software engineering methodologies.`,
+      `Developed technical skills encompassing programming languages, frameworks, and tools relevant to modern software development.`,
+      `Collaborated effectively within team environments to solve complex problems and deliver high-quality software solutions.`,
     ],
     technologies: [
       "React",
@@ -66,15 +69,16 @@ export const EXPERIENCES = [
   },
   {
     year: "December 2021 - December 2023",
-    role: "Software Engineer 3",
+    role: "Embedded Software Engineer 2",
     company: "General Dynamics Missions Systems",
     companyWebsite: "https://gdmissionsystems.com/",
     description: [
-      `Created procedural and troubleshooting guides to narrow the knowledge disparity between seasoned and junior engineers. Leveraging expertise in a specialized product domain, I mentored new team members through the procedures, leading to accelerated onboarding and enhanced system comprehension among the engineering team.`,
+      `Created standardized procedural and troubleshooting guides for the engineering department to narrow the knowledge disparity between seasoned and junior engineers.`,
+      `Leveraging expertise in a specialized product domain, I mentored six new team members through the procedures, leading to accelerated onboarding and enhanced system comprehension among the whole team.`,
       `Designed a VLAN feature utilizing event-driven software and cryptographic principles to serve as an intermediary between two interfaces. This innovation facilitated efficient communication of network traffic between the user interface and the network interface, enhancing overall functionality.`,
-      `Managed version control of C++ source code and packages to incorporate new features while preserving existing functionality within an embedded RTOS environment.`,
-      `Adhered to Agile/Scrum methodology and employed CI/CD practices to guarantee prompt delivery of software projects, utilizing IBM ClearCase for version control.`,
-      `Conducted reviews aimed at enhancing code quality and ensuring compliance with stringent security standards.`,
+      `Managed version control of C++ source code and incorporated four new features while preserving existing functionality within an embedded RTOS environment.`,
+      `Adhered to Agile/Scrum methodology and employed CI/CD practices to guarantee prompt delivery of five software projects, utilizing IBM ClearCase for version control.`,
+      `Conducted over twenty reviews aimed at enhancing code quality and ensuring compliance with stringent security standards.`,
     ],
     technologies: ["C++", "IBM Rhapsody", "IBM ClearCase"],
   },
@@ -84,8 +88,10 @@ export const EXPERIENCES = [
     company: "Wilcox Industries",
     companyWebsite: "https://wilcoxind.com/",
     description: [
-      `Collaborated on a small team to develop a software prototype that effectively showcased the viability of a novel research concept, establishing a foundation for the company to seamlessly continue the project upon our team's departure.`,
-      `Designed a unique UI/UX interface utilizing Android Studio, Java, Kotlin, CSS, and HTML to establish connectivity with an external camera via Bluetooth and USB on an Android phone app.`,
+      `Collaborated on a team of four to develop a software prototype that effectively showcased the viability of a novel research concept, establishing a foundation for the company to seamlessly continue the project upon our team's departure.`,
+      `Designed a unique UI/UX interface from scratch utilizing Android Studio, Java, Kotlin, CSS, and HTML to establish connectivity with an external camera via Bluetooth and USB on an Android phone app.`,
+      `Contributed to the development of user interfaces, database systems, and backend services under the guidance of experienced team members.`,
+      `Conducted research and analysis to support the resolution of technical challenges and optimize software performance.`,
     ],
     technologies: ["Java", "Kotlin", "Android Studio", "HTML", "CSS"],
   },
@@ -95,8 +101,11 @@ export const EXPERIENCES = [
     company: "US Air National Guard",
     companyWebsite: "https://www.104fw.ang.af.mil/",
     description: [
-      `Provided training and mentorship to junior technicians in aircraft maintenance and repair, specializing in F-15 Fighter Jets.`,
+      `Provided training and mentorship to junior technicians in aircraft maintenance and repair, specializing in F-15 Fighter Jets..`,
       `Successfully completed Air Force Boot Camp and fulfilled a six-year enlistment, earning Veteran status upon separation.`,
+      `Documented all maintenance activities accurately and maintain detailed records of aircraft maintenance history.`,
+      `Demonstrated flexibility and adaptability in a fast-paced and dynamic work environment.`,
+      `Adhered to strict safety protocols and regulations to ensure compliance with military standards.`,
     ],
     technologies: [
       "Soft Skills",
@@ -116,8 +125,10 @@ export const EXPERIENCES = [
     company: "University of Massachusetts Amherst",
     companyWebsite: "https://www.umass.edu/",
     description: [
-      "Theta Chi Fraternity - Risk Manager, House Manager, Standard's Board, and Project Chair",
-      "Big Brother Big Sister - Mentor: Big Brother Big Sister is an organization that pairs an adult with an adolescent to help build resilience, mental health, and well-being so that he or she will have an enriched, brighter future.",
+      "Activities and societies: Theta Chi Fraternity - Theta Chapter, Big Brother Big Sister",
+      "Analyzed and solved complex technical problems through systematic approaches and critical thinking skills.",
+      "Gained a strong understanding of computer hardware components, including processors, memory systems, and peripheral interfaces.",
+      "Specialized in computer architecture, digital systems design, embedded systems, security engineering, and computer networks.",
     ],
     technologies: [
       "Software Development",
@@ -135,7 +146,7 @@ export const PROJECTS = [
     title: "TriFit E-Commerce",
     image: project5,
     description:
-      "A Next-TypeScript-MERN-Stack application for managing customers, products, and sales as an admin.  Customers can purchase and download products from the E-Commerce site.",
+      "This Next.js E-Commerce platform boasts comprehensive admin capabilities, authentication features, and full CRUD functionality. Customers have the convenience of browsing and purchasing products offered by the admin, with the option to download them directly to their devices.",
     technologies: [
       "Next",
       "TypeScript",
@@ -156,7 +167,7 @@ export const PROJECTS = [
     title: "TriFit",
     image: project1,
     description:
-      "A TypeScript MERN-Stack application for managing a personal health journal with features such as user acccount creation, an AI personal trainer chatbot, and curatable workouts and meal plans with CRUD functionality.",
+      "This application, named TriFit, is a Full Stack MERN-Stack/TypeScript app. It enables users to register and log in to their accounts, where they can create, modify, and delete meal plans and workouts. Additionally, users have the ability to visualize their weights and calories through a responsive scatter plot feature.",
     technologies: [
       "TypeScript",
       "React",
@@ -180,7 +191,7 @@ export const PROJECTS = [
     title: "Battleship 2",
     image: project2,
     description:
-      "A MEN-Stack application for playing a game of Battleship against another player or the computer. Users can sign in using their Google accounts and see leaderboards for all players.",
+      "This project involves revamping my Battleship game, which was my initial undertaking for Project 1. I integrated the JavaScript, HTML, and CSS components I developed with a backend server constructed using TypeScript, Express, and Node. As a result, users now have the capability to sign in and engage in gameplay, with their scores being automatically updated. Furthermore, a dedicated leaderboard page has been implemented to showcase the scores, wins, losses, and overall gameplay statistics of all users who have participated in the game.",
     technologies: [
       "TypeScript",
       "JavaScript",
@@ -199,7 +210,7 @@ export const PROJECTS = [
     title: "AI Platforms: A CRUD-ton!",
     image: project3,
     description:
-      "A MEN-Stack application for viewing a list of popular AI Platforms and allowing users to sign in using their Google accounts and manging a favorites list using CRUD functionality.",
+      "This application is a CRUD (Create, Read, Update, Delete) platform showcasing a curated list of popular AI Platforms as of March 2024. Visitors to the site can explore a comprehensive list of AI Platforms, including details such as name, industry, descriptions, and additional company information. All data related to AI platforms, companies, and users is stored in MongoDB using a One-to-One-to-One schema. Users have the option to sign in via their Google account (OAuth) to favorite any platform listed, adding it to their personalized favorites list. Additionally, users possess the capability to contribute to the platform by adding, editing, or deleting AI platforms as needed. As an added feature, the application incorporates generative AI chatbots and image generation functionalities using Groq, OpenAI, Langchain, and LlamaIndex with Retrieval-Augmented Generation (RAG). Test cases were meticulously crafted using Jest, while Postman was employed for thorough testing of HTTP requests.",
     technologies: [
       "JavaScript",
       "Node",
@@ -221,14 +232,14 @@ export const PROJECTS = [
     title: "Py-Pac-Poe",
     image: project4,
     description:
-      "A console game of Tic-Tac-Toe successfully created as a special project to test my ability to write a game in a 2-hour time frame.",
+      "This project is an additional endeavor I undertook during my time at General Assembly. It involved creating a Tic-Tac-Toe console game in Python, as per the assignment requirements. To challenge myself further, I opted to modify the project and set a strict two-hour time limit to gauge my productivity and output.",
     technologies: ["Python"],
     source: "https://github.com/nickldimartino/py-pac-poe-console",
   },
 ];
 
 export const CONTACT = {
-  address: "Boston, MA, United States",
+  address: "Greater Boston, MA, United States",
   phoneNo: "+1 603 793-3730",
   email: "nick.l.dimartino@gmail.com",
 };
