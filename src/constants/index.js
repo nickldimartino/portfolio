@@ -2,6 +2,7 @@ import project1 from "../assets/project-1.png";
 import project2 from "../assets/project-2.png";
 import project3 from "../assets/project-3.png";
 import project4 from "../assets/project-4.png";
+import project5 from "../assets/project-5.png";
 
 export const navLinks = [
   {
@@ -130,6 +131,27 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "TriFit E-Commerce",
+    image: project5,
+    description:
+      "A Next-TypeScript-MERN-Stack application for managing customers, products, and sales as an admin.  Customers can purchase and download products from the E-Commerce site.",
+    technologies: [
+      "Next",
+      "TypeScript",
+      "React",
+      "Node",
+      "Prisma",
+      "Tailwind CSS",
+      "JavaScript",
+      "CSS3",
+      "HTML5",
+      "Git",
+      "Prettier",
+    ],
+    source: "https://github.com/nickldimartino/trifit-ecommerce",
+    website: "",
+  },
   {
     title: "TriFit",
     image: project1,
