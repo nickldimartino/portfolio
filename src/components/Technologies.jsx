@@ -9,6 +9,7 @@ import {
   SiHtml5,
   SiJavascript,
   SiJest,
+  SiLinux,
   SiMarkdown,
   SiMongodb,
   SiMongoose,
@@ -115,6 +116,15 @@ const Technologies = () => {
         >
           <TbBrandCpp className="text-7xl text-cpp" />
           <p className="flex justify-center mt-1 text-cpp text-sm">C++</p>
+        </motion.div>
+        <motion.div
+          variants={iconVariants(2.8)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiLinux className="text-7xl text-black" />
+          <p className="flex justify-center mt-1 text-black text-sm">Linux</p>
         </motion.div>
         <motion.div
           variants={iconVariants(5)}

@@ -109,7 +109,7 @@ export const EXPERIENCES = [
       `Adhered to Agile/Scrum methodology and employed CI/CD practices to guarantee prompt delivery of five software projects, utilizing IBM ClearCase for version control.`,
       `Conducted over twenty reviews aimed at enhancing code quality and ensuring compliance with stringent security standards.`,
     ],
-    technologies: ["C++", "IBM Rhapsody", "IBM ClearCase"],
+    technologies: ["C++", "IBM Rhapsody", "IBM ClearCase", "Linux"],
   },
   {
     year: "May 2019 - September 2019",
