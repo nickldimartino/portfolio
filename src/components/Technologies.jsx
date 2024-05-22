@@ -137,7 +137,7 @@ const Technologies = () => {
           <p className="flex justify-center mt-1 text-prisma text-sm">Prisma</p>
         </motion.div>
         <motion.div
-          variants={iconVariants(1)}
+          variants={iconVariants(1.9)}
           initial="initial"
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
