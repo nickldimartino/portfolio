@@ -26,6 +26,7 @@ export default {
         markdown: "#0a0a0a",
         mongoose: "#AA9271",
         prisma: "#C3DAFE",
+        postgresql: "#0064a5",
         postman: "#ef5b25",
         ibm: "#0530AD"
       }
