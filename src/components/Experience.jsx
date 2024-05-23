@@ -29,19 +29,13 @@ const Experience = () => {
             >
               <h6 className="mb-2 font-semibold">
                 {experience.role} -{" "}
-                {experience.company === "Sharp Action Sports" ? (
-                  <span className="text-sm text-blue-500">
-                    {experience.company}
-                  </span>
-                ) : (
-                  <a
-                    href={experience.companyWebsite}
-                    target="_blank"
-                    className="text-sm text-blue-500 hover:underline"
-                  >
-                    {experience.company}
-                  </a>
-                )}
+                <a
+                  href={experience.companyWebsite}
+                  target="_blank"
+                  className="text-sm text-blue-500 hover:underline"
+                >
+                  {experience.company}
+                </a>
               </h6>
               <ul>
                 {experience.description.map((description, index) => (

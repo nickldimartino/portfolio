@@ -40,7 +40,7 @@ export const EXPERIENCES = [
     year: "May 2024 - Present",
     role: "Chief Technical Officer/Founding Engineer",
     company: "Sharp Action Sports",
-    companyWebsite: "",
+    companyWebsite: "https://www.linkedin.com/company/sharp-action-sports/?viewAsMember=true",
     description: [
       `Defining and executing the company's technological vision, strategy, and roadmap to support business goals and drive innovation.`,
       `Overseeing the end-to-end development and delivery of high-quality software products, ensuring alignment with market needs and company objectives.`,
@@ -67,7 +67,7 @@ export const EXPERIENCES = [
   },
   {
     year: "January 2024 - May 2024",
-    role: "Full Stack Software Engineer",
+    role: "Full Stack Software Engineer - Fellow",
     company: "General Assembly",
     companyWebsite: "https://generalassemb.ly/",
     description: [
