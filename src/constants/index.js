@@ -3,6 +3,7 @@ import project2 from "../assets/project-2.png";
 import project3 from "../assets/project-3.png";
 import project4 from "../assets/project-4.png";
 import project5 from "../assets/project-5.png";
+import project6 from "../assets/project-6.png";
 
 export const navLinks = [
   {
@@ -171,6 +172,28 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Zero Waste 101",
+    image: project6,
+    description: "This is a React-Rails platform designed to educate users about Recycling, Emissions, Zero Waste, and their effects. Users can explore various pages to learn about recycling practices, the impact on industries and the environment, and create a list of recyclable materials.",
+    technologies: [
+      "React",
+      "Ruby on Rails",
+      "TypeScript",
+      "JavaScript",
+      "Ruby",
+      "SQLite",
+      "Node",
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "Git",
+      "Prettier",
+      "Postman"
+    ],
+    source: "https://github.com/nickldimartino/zero-waste-app",
+    website: ""
+  },
   {
     title: "TriFit E-Commerce",
     image: project5,

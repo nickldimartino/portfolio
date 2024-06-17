@@ -51,7 +51,8 @@ const Projects = () => {
                 </a>
                 {project.title !== "Py-Pac-Poe" &&
                 project.title !== "TriFit" &&
-                project.title !== "TriFit E-Commerce" ? (
+                project.title !== "TriFit E-Commerce" &&
+                project.title !== "Zero Waste 101" ? (
                   <a
                     href={project.website}
                     target="_blank"
