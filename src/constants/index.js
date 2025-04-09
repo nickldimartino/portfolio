@@ -32,22 +32,65 @@ export const navLinks = [
   },
 ];
 
-export const HERO_CONTENT = `As an experienced Software Engineer, I am eager to transition from my web development at General Assembly and two years in embedded software to my next Software Engineering role. My military experience instilled in me the importance of discipline and teamwork, shaping me into an engineer who thrives in challenging environments that foster growth and innovation. With meticulous attention to detail and a procedural mindset developed through experiences in the military, academia, bodybuilding, and the defense industry, I tackle challenges with a positive and focused attitude. I am now actively seeking opportunities to demonstrate my capabilities in a Software Engineer role, prepared to bring my unique perspective and skills to the forefront.`;
+export const HERO_CONTENT = `As a Solutions Engineer at SmartBear, I’m leveraging my foundation in software development and embedded systems to craft impactful demos, solve real-world challenges, and support successful Proof of Concepts. I’ve found a fulfilling home here—working alongside a passionate team and helping customers translate complex technical needs into powerful solutions.
 
-export const ABOUT_TEXT = `I am a dedicated and versatile software engineer with a passion for creating efficient, user-friendly web applications and impressive, highly-architectured software. With 3 years of professional experience, I have worked with a variety of technologies, including Next, React, TypeScript, Node.js, C++, Python, MongoDB, and Prisma. My journey in software began when I was 15, and my curiosity for learning how things work evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in a variety of environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy bodybuilding, snowboarding, Electronic Dance Music (EDM), video games, anime, reading, and tending to my cat who requires unwavering attention.`;
+My journey has been anything but linear—from web development at General Assembly to two years in embedded software, all built on the discipline and teamwork instilled by my military service. That experience, combined with a detail-driven mindset shaped by the military, academia, bodybuilding, and defense, has made me a resilient and growth-oriented engineer.
+
+I'm proud of where I am and excited for what lies ahead—continuing to grow, contribute, and thrive at the intersection of technology, collaboration, and innovation.`;
+
+export const ABOUT_TEXT = `I'm a Solutions Engineer at SmartBear with a strong foundation in software engineering, shaped by hands-on experience in embedded systems at General Dynamics, full stack web development through General Assembly, and technical mentorship in the U.S. Air Force. My transition into pre-sales engineering was driven by a passion for solving real-world customer problems through impactful demos, proof-of-concepts, and technical storytelling.
+
+At SmartBear, I collaborate with sales and product teams to showcase the power of our API testing suite—ReadyAPI, API Hub, TestHub, and more—crafting tailored technical demonstrations that resonate with diverse stakeholders. I specialize in translating complex functionality into clear business value, and I thrive in environments where curiosity, precision, and cross-functional collaboration are key to success.
+
+My military background instilled a mindset of discipline, structure, and resilience—qualities that now guide my approach to customer engagement, demo creation, and solution development. Whether leading POCs, responding to RFPs, or aligning technical solutions with strategic business goals, I bring a sharp attention to detail, a methodical approach, and a sincere desire to help others succeed.
+
+I'm always open to sharing what I’ve learned about the tech industry, software career growth, and effective communication in engineering. Let's connect if you want to talk APIs, demos, or breaking into tech with confidence.
+`;
 
 export const EXPERIENCES = [
   {
-    year: "May 2024 - Present",
+    year: "September 2024 - Present",
+    role: "Software Sales/Solutions Engineer",
+    company: "SmartBear",
+    companyWebsite: "https://www.linkedin.com/company/smartbear/posts/?feedView=all",
+    description: [
+      `Acted as a trusted advisor to sales representatives, demonstrating the value of SmartBear’s suite of tools.`,
+      `Developed creative solutions for technical challenges leveraging SmartBear’s technologies.`,
+      `Collaborated with Solutions Engineers to manage Proofs of Concept (POCs), develop account-specific use cases, and provide technical support.`,
+      `Built relationships with tool users during the POC process through check-ins, screen shares, and addressing specific requests.`,
+      `Worked with Marketing, Product Management, and Customer Adoption teams to drive product success and enhance customer satisfaction pre-sale and post-sale.`,
+      `Responsible for completing Request for Proposals (RFPs), creating POC checklists, and setting up tailored demo environments.`
+    ],
+    technologies: [
+      "ReadyAPI",
+      "API Hub",
+      "Test Hub",
+      "SwaggerHub",
+      "SwaggerHub Portal",
+      "SwaggerHub Explore",
+      "PactFlow",
+      "Reflect",
+      "TestComplete",
+      "LoadNinja",
+      "VisualTest",
+      "BitBar",
+      "Camtasia",
+      "Full Stack Web Development",
+      "API Testing",
+      "UI Testing"
+    ],
+  },
+  {
+    year: "May 2024 - October 2024",
     role: "Chief Technical Officer/Founding Engineer",
     company: "Sharp Action Sports",
     companyWebsite: "https://www.linkedin.com/company/sharp-action-sports/?viewAsMember=true",
     description: [
-      `Defining and executing the company's technological vision, strategy, and roadmap to support business goals and drive innovation.`,
-      `Overseeing the end-to-end development and delivery of high-quality software products, ensuring alignment with market needs and company objectives.`,
-      `Conducting research and proof-of-concepts for new technologies to enhance product offerings and keep the company at the forefront of industry trends.`,
-      `Establishing and enforcing coding standards, best practices, and conducted thorough testing to ensure code quality and maintainability.`,
-      `Implementing security measures and protocols to protect user data and ensure compliance with industry standards.`,
+      `Partnered directly with early users to identify technical needs, shaping proof-of-concepts and MVP features tailored to customer use cases—mirroring pre-sales engagement strategies.`,
+      `Conducted in-depth technical research and POC development on emerging tools and frameworks, improving solution fit and enabling value-driven demos.`,
+      `Designed and implemented security protocols in line with industry compliance standards, enhancing trust with prospective users and stakeholders.`,
+      `Defined and communicated the company’s technical roadmap in accessible terms to internal leadership and external stakeholders, bridging the gap between technical feasibility and business impact.`,
+      `Proactively troubleshot and resolved infrastructure challenges, enhancing platform reliability and scalability in dynamic, fast-paced environments.`,
     ],
     technologies: [
       "Next",
@@ -72,10 +115,12 @@ export const EXPERIENCES = [
     company: "General Assembly",
     companyWebsite: "https://generalassemb.ly/",
     description: [
-      `Completed a full-time Software Engineering Bootcamp, comprising over 420 hours of intensive professional training spanning twelve weeks.`,
-      `Applied a hands-on approach to master user-centered design principles and software engineering methodologies.`,
-      `Developed technical skills encompassing programming languages, frameworks, and tools relevant to modern software development.`,
-      `Collaborated effectively within team environments to solve complex problems and deliver high-quality software solutions.`,
+      `Completed a 420+ hour immersive Software Engineering Bootcamp, mastering full-stack development and building production-ready applications under tight deadlines.`,
+      `Developed front-end and back-end solutions using modern frameworks such as React, Node.js, and Express, with a focus on API integration and user experience.`,
+      `Employed user-centered design principles and agile methodologies to iteratively prototype, test, and refine software solutions aligned with real-world use cases.`,
+      `Strengthened technical problem-solving skills through practical application of data structures, algorithms, and object-oriented programming.`,
+      `Led and contributed to collaborative team projects, including pair programming, code reviews, and live demos—effectively communicating complex technical concepts to diverse audiences.`,
+      `Built portfolio-ready applications to demonstrate technical proficiency, adaptability, and customer-focused solution development.`,
     ],
     technologies: [
       "React",
@@ -103,12 +148,13 @@ export const EXPERIENCES = [
     company: "General Dynamics Missions Systems",
     companyWebsite: "https://gdmissionsystems.com/",
     description: [
-      `Created standardized procedural and troubleshooting guides for the engineering department to narrow the knowledge disparity between seasoned and junior engineers.`,
-      `Leveraging expertise in a specialized product domain, I mentored six new team members through the procedures, leading to accelerated onboarding and enhanced system comprehension among the whole team.`,
-      `Designed a VLAN feature utilizing event-driven software and cryptographic principles to serve as an intermediary between two interfaces. This innovation facilitated efficient communication of network traffic between the user interface and the network interface, enhancing overall functionality.`,
-      `Managed version control of C++ source code and incorporated four new features while preserving existing functionality on Real-Time Operating Systems (RTOS), embedded systems, and debugging/unit test software.`,
-      `Adhered to Agile/Scrum methodology and employed CI/CD practices to guarantee prompt delivery of five software projects, utilizing IBM ClearCase for version control.`,
-      `Conducted over twenty reviews aimed at enhancing code quality and ensuring compliance with stringent security standards.`,
+      `Created standardized troubleshooting and procedural documentation, enhancing cross-team collaboration and reducing onboarding time by streamlining knowledge transfer between senior and junior engineers.`,
+      `Mentored six new engineers, guiding them through complex product domain concepts and internal workflows—improving technical ramp-up and enabling faster contributions to customer-facing features.`,
+      `Designed and implemented a VLAN feature using event-driven architecture and cryptographic principles to bridge UI and network interfaces, improving system communication and user experience.`,
+      `Contributed to feature development in C++ for real-time embedded systems, maintaining stability and backward compatibility across mission-critical environments.`,
+      `Actively participated in Agile ceremonies and delivered on five major projects, applying CI/CD practices and test-driven development for consistent, high-quality releases.`,
+      `Led over 20 code and security reviews to uphold compliance with rigorous DoD security and quality standards, ensuring reliability in sensitive environments.`,
+      `Managed complex debugging workflows and contributed to the delivery of customer-ready builds through systematic testing, version control, and iterative feedback loops.`
     ],
     technologies: ["C++", "IBM Rhapsody", "IBM ClearCase", "Linux"],
   },
@@ -118,10 +164,11 @@ export const EXPERIENCES = [
     company: "Wilcox Industries",
     companyWebsite: "https://wilcoxind.com/",
     description: [
-      `Collaborated on a team of four to develop a software prototype that effectively showcased the viability of a novel research concept, establishing a foundation for the company to seamlessly continue the project upon our team's departure.`,
-      `Designed a unique UI/UX interface from scratch utilizing Android Studio, Java, Kotlin, CSS, and HTML to establish connectivity with an external camera via Bluetooth and USB on an Android phone app.`,
-      `Contributed to the development of user interfaces, database systems, and backend services under the guidance of experienced team members.`,
-      `Conducted research and analysis to support the resolution of technical challenges and optimize software performance.`,
+      `Collaborated on a cross-functional team of four to develop a software prototype demonstrating the feasibility of an innovative research initiative, paving the way for continued development post-internship.`,
+      `Designed and implemented a custom Android UI/UX interface using Android Studio, Java, Kotlin, CSS, and HTML—enabling seamless Bluetooth and USB connectivity with an external camera.`,
+      `Gained full-stack development experience by contributing to front-end interfaces, backend logic, and database integration in a production-adjacent environment.`,
+      `Partnered with senior engineers to solve complex technical problems and iterate on feature designs based on user needs and hardware interaction constraints.`,
+      `Practiced communicating technical findings and development progress to stakeholders, honing early-stage product validation and storytelling skills useful in customer-facing roles.`
     ],
     technologies: ["Java", "Kotlin", "Android Studio", "HTML", "CSS"],
   },
@@ -131,11 +178,11 @@ export const EXPERIENCES = [
     company: "US Air National Guard",
     companyWebsite: "https://www.104fw.ang.af.mil/",
     description: [
-      `Provided training and mentorship to junior technicians in aircraft maintenance and repair, specializing in F-15 Fighter Jets..`,
-      `Successfully completed Air Force Boot Camp and fulfilled a six-year enlistment, earning Veteran status upon separation.`,
-      `Documented all maintenance activities accurately and maintain detailed records of aircraft maintenance history.`,
-      `Demonstrated flexibility and adaptability in a fast-paced and dynamic work environment.`,
-      `Adhered to strict safety protocols and regulations to ensure compliance with military standards.`,
+      `Delivered hands-on mentorship and training to junior technicians in the maintenance and repair of F-15 fighter jets, fostering a culture of precision and accountability.`,
+      `Successfully completed Air Force Basic Training and fulfilled a six-year enlistment, earning Veteran status and demonstrating long-term commitment, discipline, and resilience.`,
+      `Maintained detailed technical documentation of maintenance procedures and system histories, aligning with rigorous compliance standards—mirroring documentation practices in regulated tech environments.`,
+      `Operated in a high-stakes, fast-paced setting where adaptability and clear communication were critical to mission success—translating well into dynamic customer-facing technical roles.`,
+      `Adhered to and enforced strict safety protocols and regulatory requirements, ensuring the highest standards of operational readiness and system reliability.`,
     ],
     technologies: [
       "Soft Skills",
@@ -156,9 +203,10 @@ export const EXPERIENCES = [
     companyWebsite: "https://www.umass.edu/",
     description: [
       "Activities and societies: Theta Chi Fraternity - Theta Chapter, Big Brother Big Sister",
-      "Analyzed and solved complex technical problems through systematic approaches and critical thinking skills.",
-      "Gained a strong understanding of computer hardware components, including processors, memory systems, and peripheral interfaces.",
-      "Specialized in computer architecture, digital systems design, embedded systems, security engineering, and computer networks.",
+      "Applied systematic problem-solving and critical thinking to analyze and resolve complex engineering challenges—preparing for real-world customer solutioning and technical consultation.",
+      "Completed projects involving embedded programming, circuit design, and systems integration, providing early hands-on experience with debugging, hardware-software interfacing, and technical documentation.",
+      "Participated in team-based design and development environments, strengthening collaboration, communication, and project planning skills.",
+      "Involved in extracurricular organizations including Theta Chi Fraternity and Big Brother Big Sister, demonstrating leadership, mentorship, and community engagement."
     ],
     technologies: [
       "Software Development",
