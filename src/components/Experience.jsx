@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Experience = () => {
   return (
-    <div id="experience" className="border-b border-neutral-900 pb-4">
+    <div id="experience" className="border-b border-t border-neutral-900 pb-4">
       <h2 className="my-20 text-center text-4xl  font-semibold">Experience</h2>
       <div>
         {EXPERIENCES.map((experience, index) => (

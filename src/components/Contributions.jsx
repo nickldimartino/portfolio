@@ -16,7 +16,8 @@ const Contributions = () => {
   const { title, description, type, link } = CONTRIBUTIONS[index];
 
   return (
-    <div id="contributions" className="w-full max-w-3xl mx-auto p-4 border-b border-neutral-900 pb-4">
+    <div id="contributions" className="w-full max-w-4xl mx-auto">
+
       <h2 className="my-10 text-center text-4xl font-semibold">Contributions</h2>
 
       <div className="h-[375px] flex flex-col justify-between px-6 transition-all duration-500 text-center">
@@ -43,7 +44,7 @@ const Contributions = () => {
         </div>
 
         {/* Bottom: Arrows */}
-        <div className="flex justify-between px-4">
+        <div className="flex justify-between px-4 mb-10">
           <button onClick={prev} className="hover:text-blue-500 transition-colors">
             <ChevronLeft size={24} />
           </button>
