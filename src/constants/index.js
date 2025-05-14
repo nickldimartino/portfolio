@@ -11,20 +11,24 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "technologies",
-    title: "Technologies",
+    id: "contributions",
+    title: "Contributions",
   },
   {
     id: "experience",
     title: "Experience",
   },
   {
+    id: "certifications",
+    title: "Certifications",
+  },
+  {
     id: "projects",
     title: "Projects",
   },
   {
-    id: "certifications",
-    title: "Certifications",
+    id: "technologies",
+    title: "Technologies",
   },
   {
     id: "contact",
@@ -46,6 +50,22 @@ My military background instilled a mindset of discipline, structure, and resilie
 
 I'm always open to sharing what I’ve learned about the tech industry, software career growth, and effective communication in engineering. Let's connect if you want to talk APIs, demos, or breaking into tech with confidence.
 `;
+
+export const CONTRIBUTIONS = [
+  {
+    title: "Embracing the Design-First Methodology with SmartBear API Hub and ReadyAPI",
+    description: "Explore how a Design-First approach streamlines API development using SmartBear’s API Hub and ReadyAPI. My blog highlights how strong design, collaboration, and integrated tooling drive faster, more scalable API delivery across teams.",
+    type: "Blog Post",
+    link: "https://smartbear.com/blog/embracing-the-design-first-methodology-with-smartBear-api-hub-and-readyapi/"
+  },
+  {
+    title: "Performance Testing with ReadyAPI",
+    description: "Check out this training course I made in SmartBear Academy! In this basics-level course, you will learn how to use some of the most commonly used workflows in ReadyAPI Performance. I cover everything from setting up performance tests, configuring load profiles, managing virtual users, and analyzing test results through reports and monitoring tools.",
+    type: "Training Course",
+    link: "https://smartbear.com/academy/readyapi/performance-testing-with-readyapi/"
+  }
+];
+
 
 export const EXPERIENCES = [
   {
