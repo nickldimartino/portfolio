@@ -63,6 +63,12 @@ export const CONTRIBUTIONS = [
     description: "Check out this training course I made in SmartBear Academy! In this basics-level course, you will learn how to use some of the most commonly used workflows in ReadyAPI Performance. I cover everything from setting up performance tests, configuring load profiles, managing virtual users, and analyzing test results through reports and monitoring tools.",
     type: "Training Course",
     link: "https://smartbear.com/academy/readyapi/performance-testing-with-readyapi/"
+  },
+  {
+    title: "Service Virtualization with ReadyAPI",
+    description: "Check out this training course I made in SmartBear Academy! In this basis-level course, you will learn how to simulate APIs and services with ReadyAPI Virtualization. In this beginner-level course, you’ll explore essential workflows for creating, configuring, and managing virtual services. From building your first virtual service to sharing and analyzing results, you’ll gain a strong foundation in service virtualization best practices.",
+    type: "Training Course",
+    link: "https://smartbear.com/academy/readyapi/service-virtualization-with-readyapi/"
   }
 ];
 
