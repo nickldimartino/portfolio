@@ -66,7 +66,7 @@ export const CONTRIBUTIONS = [
   },
   {
     title: "Service Virtualization with ReadyAPI",
-    description: "Check out this training course I made in SmartBear Academy! In this basis-level course, you will learn how to simulate APIs and services with ReadyAPI Virtualization. In this beginner-level course, you’ll explore essential workflows for creating, configuring, and managing virtual services. From building your first virtual service to sharing and analyzing results, you’ll gain a strong foundation in service virtualization best practices.",
+    description: "Check out this training course I made in SmartBear Academy! In this beginner-level course, you’ll explore essential workflows for creating, configuring, and managing virtual services. From building your first virtual service to sharing and analyzing results, you’ll gain a strong foundation in service virtualization best practices.",
     type: "Training Course",
     link: "https://smartbear.com/academy/readyapi/service-virtualization-with-readyapi/"
   }
