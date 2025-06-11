@@ -53,6 +53,12 @@ I'm always open to sharing what I’ve learned about the tech industry, software
 
 export const CONTRIBUTIONS = [
   {
+    title: "Supercharge API-First Development with API Hub + ReadyAPI Virtualization",
+    description: "Explore how SmartBear’s API Hub and ReadyAPI can enhance your API design process. My blog highlights how strong design, collaboration, and integrated tooling between the two tools drive faster, more scalable API delivery across teams.",
+    type: "Blog Post",
+    link: "https://smartbear.com/blog/supercharge-api-first-development-with-api-hub-readyapi-virtualization/"
+  },
+  {
     title: "Embracing the Design-First Methodology with SmartBear API Hub and ReadyAPI",
     description: "Explore how a Design-First approach streamlines API development using SmartBear’s API Hub and ReadyAPI. My blog highlights how strong design, collaboration, and integrated tooling drive faster, more scalable API delivery across teams.",
     type: "Blog Post",
