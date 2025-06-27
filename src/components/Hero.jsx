@@ -39,7 +39,7 @@ const Hero = () => {
               animate="visible"
               className="bg-gradient-to-r from-green-500 via-slate-500 to-blue-600 bg-clip-text text-2xl tracking-tight text-transparent"
             >
-              AWS Solutions Architect - Associate (SAA) Certified
+              AWS Certified Solutions Architect - Associate (SAA)
             </motion.span>
             <motion.p
               variants={container(1)}
