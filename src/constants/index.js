@@ -378,10 +378,32 @@ export const CONTACT = {
 
 export const CERTIFICATIONS = [
   {
+    year: "June 2025 - June 2028",
+    role: "AWS Solutions Architect - Associate (SAA)",
+    company: "Amazon Web Services",
+    companyWebsite: "https://aws.amazon.com/verification",
+    validationNum: "3b59c6d2a648485b81656b657578a49e",
+    description: [
+      `The AWS Certified Solutions Architect – Associate validates the ability to design distributed systems on AWS that are scalable, resilient, cost-optimized, and secure. This certification is ideal for individuals with some experience in designing cloud-based solutions or those aiming to deepen their technical knowledge of AWS services. It is a key step for professionals pursuing cloud architecture roles and builds upon foundational understanding by focusing on real-world architectural best practices.`,
+    ],
+    technologies: [
+      "AWS (Amazon Web Services)",
+      "AWS Cloud",
+      "Cloud Services",
+      "Networking",
+      "Architecture Design",
+      "Architecture Resiliency",
+      "Architecture Cost-Optimization",
+      "High-Performance Architecture",
+      "Foundations",
+    ],
+  },
+  {
     year: "April 2024 - April 2027",
     role: "AWS Cloud Practitioner",
     company: "Amazon Web Services",
-    companyWebsite: "https://aws.amazon.com/?nc2=h_lg",
+    companyWebsite: "https://aws.amazon.com/verification",
+    validationNum: "b5fec7b3318b48d3a36365070d64b631",
     description: [
       `The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.  This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.`,
     ],

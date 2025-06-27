@@ -40,6 +40,13 @@ const Certifications = () => {
                 </a>
               </h6>
               <ul>
+                {certification.validationNum.map((validationNum, index) => (
+                  <li key={index} className="mb-4 text-neutral-500">
+                    Certificate Validation #: {validationNum}
+                  </li>
+                ))}
+              </ul>
+              <ul>
                 {certification.description.map((description, index) => (
                   <li key={index} className="mb-4 text-neutral-500">
                     {description}

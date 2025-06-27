@@ -33,6 +33,14 @@ const Hero = () => {
             >
               Software Sales/Solutions Engineer
             </motion.span>
+            <motion.span
+              variants={container(0.5)}
+              initial="hidden"
+              animate="visible"
+              className="bg-gradient-to-r from-green-500 via-slate-500 to-blue-600 bg-clip-text text-2xl tracking-tight text-transparent"
+            >
+              AWS Solutions Architect - Associate (SAA) Certified
+            </motion.span>
             <motion.p
               variants={container(1)}
               initial="hidden"
