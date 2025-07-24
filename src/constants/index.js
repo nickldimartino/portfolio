@@ -53,6 +53,12 @@ I'm always open to sharing what I’ve learned about the tech industry, software
 
 export const CONTRIBUTIONS = [
   {
+    title: "Amplify and Automate Your API Testing with ReadyAPI and TestEngine",
+    description: "Automate and scale API testing by integrating ReadyAPI with TestEngine for fast, parallel execution in any CI/CD environment.",
+    type: "Blog Post",
+    link: "https://smartbear.com/blog/amplify-and-automate-your-api-testing-with-readyapi-and-testengine/"
+  },
+  {
     title: "Supercharge API-First Development with API Hub + ReadyAPI Virtualization",
     description: "Explore how SmartBear’s API Hub and ReadyAPI can enhance your API design process. My blog highlights how strong design, collaboration, and integrated tooling between the two tools drive faster, more scalable API delivery across teams.",
     type: "Blog Post",
