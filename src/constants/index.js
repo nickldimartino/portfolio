@@ -53,6 +53,12 @@ I'm always open to sharing what I’ve learned about the tech industry, software
 
 export const CONTRIBUTIONS = [
   {
+    title: "Unifying API and UI Testing with ReadyAPI and TestComplete to Maximize Product Quality",
+    description: "SmartBear shows how combining ReadyAPI for API testing and TestComplete for UI testing creates a unified approach to catch defects earlier and boost product quality. This integration streamlines automation, delivers end-to-end coverage, and accelerates release cycles without sacrificing reliability.",
+    type: "Blog Post",
+    link: "https://smartbear.com/blog/unifying-api-and-ui-testing-with-readyapi-and-testcomplete-to-maximize-product-quality/"
+  },
+  {
     title: "Amplify and Automate Your API Testing with ReadyAPI and TestEngine",
     description: "Automate and scale API testing by integrating ReadyAPI with TestEngine for fast, parallel execution in any CI/CD environment.",
     type: "Blog Post",
