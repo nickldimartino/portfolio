@@ -125,6 +125,22 @@ export const EXPERIENCES = [
     ],
   },
   {
+    year: "October 2025 - Present",
+    role: "Master's in Engineering Management - Student",
+    company: "Arkansas State University",
+    companyWebsite: "https://www.astate.edu/degrees/ms-engineering-management",
+    description: [
+      `Developed a foundation in engineering management, integrating systems thinking, quantitative analysis, and leadership to bridge technical execution with strategic decision-making.`,
+      `Applied data-driven and operations research techniques to improve processes, optimize performance, and guide business strategy.`,
+      `Built skills in financial modeling, project management, and quality improvement, enabling effective resource allocation and measurable impact.`,
+      `Enhanced leadership and people-management capabilities through studies in organizational behavior and communication.`,
+      `Completed a capstone project integrating analytics, management, and innovation, demonstrating the ability to align technical insight with organizational goals.`
+    ],
+    technologies: [
+      "Excel"
+    ],
+  },
+  {
     year: "May 2024 - October 2024",
     role: "Chief Technical Officer/Founding Engineer",
     company: "Sharp Action Sports",
