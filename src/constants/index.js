@@ -98,12 +98,13 @@ export const EXPERIENCES = [
     company: "SmartBear",
     companyWebsite: "https://www.linkedin.com/company/smartbear/posts/?feedView=all",
     description: [
-      `Acted as a trusted advisor to sales representatives, demonstrating the value of SmartBear’s suite of tools.`,
-      `Developed creative solutions for technical challenges leveraging SmartBear’s technologies.`,
-      `Collaborated with Solutions Engineers to manage Proofs of Concept (POCs), develop account-specific use cases, and provide technical support.`,
-      `Built relationships with tool users during the POC process through check-ins, screen shares, and addressing specific requests.`,
-      `Worked with Marketing, Product Management, and Customer Adoption teams to drive product success and enhance customer satisfaction pre-sale and post-sale.`,
-      `Responsible for completing Request for Proposals (RFPs), creating POC checklists, and setting up tailored demo environments.`
+      `Created the Solutions Engineering Playbook, integrating AI-driven insights to automatically summarize SE call data which streamlined knowledge sharing between Sales, Product, and Marketing. `,
+      `Designed and built two fully customized demo environments for Solutions Engineers, improving demonstration consistency and reducing prep time across the team. `,
+      `Authored four technical blogs and two certification video courses for SmartBear Academy, enhancing enablement and product adoption across global teams. `,
+      `Produced and recorded multiple high-impact demo and training videos for cross-functional teams, standardizing messaging and accelerating onboarding.`,
+      `Led internal enablement sessions for the SE organization, sharing best practices, new tooling techniques, and advanced demo workflows.`,
+      `Expanded technical expertise beyond core responsibilities, mastering advanced SmartBear tooling to support broader solution coverage in customer evaluations.`,
+      `Partnered cross-functionally with Sales, Marketing, and Product teams to improve pre-sale technical positioning, content strategy, and customer experience outcomes. `
     ],
     technologies: [
       "ReadyAPI",
