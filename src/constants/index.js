@@ -104,7 +104,7 @@ export const EXPERIENCES = [
       `Produced and recorded multiple high-impact demo and training videos for cross-functional teams, standardizing messaging and accelerating onboarding.`,
       `Led internal enablement sessions for the SE organization, sharing best practices, new tooling techniques, and advanced demo workflows.`,
       `Expanded technical expertise beyond core responsibilities, mastering advanced SmartBear tooling to support broader solution coverage in customer evaluations.`,
-      `Partnered cross-functionally with Sales, Marketing, and Product teams to improve pre-sale technical positioning, content strategy, and customer experience outcomes. `
+      `Delivered live product demos at three industry conferences, driving customer engagement and strengthening SmartBear’s technical presence while partnering with Sales, Marketing, and Product to align messaging and showcase solution value.`
     ],
     technologies: [
       "ReadyAPI",
