@@ -41,12 +41,12 @@ I’m a Solutions Engineer at SmartBear with a background in software developmen
 
 I work closely with sales and product teams to translate complex technical requirements into practical solutions, helping engineering, QA, and business stakeholders evaluate and adopt API quality tooling with confidence.
 
-My path into pre-sales engineering was driven by a desire to combine technical depth with communication—using structure, preparation, and storytelling to support better customer decisions.`;
+My path into pre-sales engineering was driven by a desire to combine technical depth with communication, using structure, preparation, and storytelling to support better customer decisions.`;
 
 export const ABOUT_TEXT = `
 I’m a Solutions Engineer at SmartBear with a strong foundation in software engineering, shaped by hands-on experience in embedded systems at General Dynamics, full-stack web development through General Assembly, and technical mentorship in the U.S. Air Force.
 
-I transitioned into pre-sales engineering to focus on what I enjoy most: solving real customer problems through customer-specific demos, proof-of-concepts, and clear technical explanations. At SmartBear, I partner closely with sales and product teams to support customers across the pre- and post-sales lifecycle—from discovery and demos to implementation, validation, and ongoing technical alignment.
+I transitioned into pre-sales engineering to focus on what I enjoy most: solving real customer problems through customer-specific demos, proof-of-concepts, and clear technical explanations. At SmartBear, I partner closely with sales and product teams to support customers across the pre- and post-sales lifecycle, from discovery and demos to implementation, validation, and ongoing technical alignment.
 
 My work centers on translating complex systems into clear business outcomes. I design and deliver tailored demonstrations that resonate with engineers, QA teams, and decision-makers, and I thrive in environments where preparation, technical accuracy, and demo quality directly influence customer decisions.
 
