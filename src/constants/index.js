@@ -37,23 +37,23 @@ export const navLinks = [
 ];
 
 export const HERO_CONTENT = `
-I’m a Solutions Engineer at SmartBear with a background in software development and embedded systems, focused on solving real customer problems through clear, well-prepared demos and proof-of-concepts.
-
-I work closely with sales and product teams to translate complex technical requirements into practical solutions, helping engineering, QA, and business stakeholders evaluate and adopt API quality tooling with confidence.
-
-My path into pre-sales engineering was driven by a desire to combine technical depth with communication, using structure, preparation, and storytelling to support better customer decisions.`;
+Solutions Engineer and military veteran with a strong foundation in software development and SaaS platforms. Experienced leading technical
+discovery, delivering tailored demos and Proofs of Concept (POCs), and supporting complex customer evaluations in partnership with Sales,
+Product, Marketing, and Engineering. Skilled at translating complex systems, integrations, and workflows into clear, outcome-driven narratives
+that accelerate adoption and technical decision-making. `;
 
 export const ABOUT_TEXT = `
-I’m a Solutions Engineer at SmartBear with a strong foundation in software engineering, shaped by hands-on experience in embedded systems at General Dynamics, full-stack web development through General Assembly, and technical mentorship in the U.S. Air Force.
+Solutions Engineer at SmartBear with a strong foundation in software engineering and a focus on pre-sales and customer-facing technical work. My background spans embedded systems at General Dynamics, full-stack web development through General Assembly, and technical mentorship in the U.S. Air Force.
 
-I transitioned into pre-sales engineering to focus on what I enjoy most: solving real customer problems through customer-specific demos, proof-of-concepts, and clear technical explanations. At SmartBear, I partner closely with sales and product teams to support customers across the pre- and post-sales lifecycle, from discovery and demos to implementation, validation, and ongoing technical alignment.
+I transitioned into Solutions Engineering to focus on what I enjoy most: solving real customer problems through tailored demos, proof-of-concepts, and clear, narrative-driven technical explanations. At SmartBear, I partner closely with Sales and Product teams to support customer evaluations across the pre- and post-sales lifecycle, from discovery and demos through implementation, validation, and ongoing technical alignment.
 
-My work centers on translating complex systems into clear business outcomes. I design and deliver tailored demonstrations that resonate with engineers, QA teams, and decision-makers, and I thrive in environments where preparation, technical accuracy, and demo quality directly influence customer decisions.
+My work centers on showcasing the value of API testing and quality tooling by crafting demos aligned to the priorities of engineers, QA teams, and business decision-makers. I specialize in translating complex systems, integrations, and workflows into clear outcomes that help customers make confident technical decisions.
 
-My military background instilled discipline, structure, and resilience, which guide my approach to customer engagement, demo design, and solution development. Whether leading POCs, responding to RFPs, or aligning technical solutions to business goals, I bring a methodical mindset, strong attention to detail, and a genuine desire to help teams succeed.
+My military background instilled discipline, structure, and attention to detail which are traits that shape my approach to customer engagement, demo design, and solution development. Whether leading POCs, supporting RFPs, or aligning solutions to business goals, I bring a methodical, preparation-driven mindset to every engagement.
 
-I enjoy sharing what I’ve learned about software careers, effective technical communication, and working in the tech industry. Let’s connect if you want to talk APIs, demos, or breaking into tech with confidence.
-`;
+I’m currently pursuing an M.S. in Engineering Management to strengthen my ability to lead technical initiatives and support data-driven decision-making in complex organizations.
+
+I enjoy sharing what I’ve learned about software, Solutions Engineering, and effective technical communication. Let’s connect if you want to talk APIs, demos, or building strong technical careers.`;
 
 
 export const CONTRIBUTIONS = [
@@ -103,13 +103,12 @@ export const EXPERIENCES = [
     company: "SmartBear",
     companyWebsite: "https://www.linkedin.com/company/smartbear/posts/?feedView=all",
     description: [
-      `Created the Solutions Engineering Playbook, integrating AI-driven insights to automatically summarize SE call data which streamlined knowledge sharing between Sales, Product, Customer Success, and Marketing.`,
-      `Designed and built two fully customized demo environments for Solutions Engineers, improving demonstration consistency and reducing prep time across the team.`,
-      `Authored four technical blogs and two certification video courses for SmartBear Academy, enhancing enablement and product adoption across global teams.`,
-      `Produced multiple high-impact demo and training videos for cross-functional teams, standardizing messaging and accelerating onboarding.`,
-      `Led internal enablement sessions for the SE organization, sharing best practices, new tooling techniques, and advanced demo workflows.`,
-      `Expanded technical expertise beyond core responsibilities, mastering advanced SmartBear tooling to support broader solution coverage in customer evaluations.`,
-      `Delivered live product demos at three industry conferences, driving customer engagement and strengthening SmartBear’s technical presence while partnering with Sales, Marketing, Customer Success, and Product to align messaging and showcase solution value.`
+      `Partnered with Account Executives to support technical discovery, customer evaluations, and Proofs of Concept (POCs), aligning SmartBear solutions to customer workflows and technical requirements.`,
+      `Designed and built customized demo environments used in live sales cycles, improving demonstration consistency and reducing preparation time for Solutions Engineers.`,
+      `Served as a technical resource during customer evaluations, addressing integration feasibility, API workflows, and platform capabilities across multiple SmartBear products.`,
+      `Created the Solutions Engineering Playbook to document repeatable demo workflows, evaluation best practices, and customer-facing processes, improving onboarding and cross-team alignment.`,
+      `Produced technical enablement content including blogs, certification courses, and demo walkthroughs to support internal teams and customer adoption.`,
+      `Delivered live product demonstrations at industry conferences and internal events, partnering with Sales, Product, Customer Success, and Marketing to showcase solution value.`
     ],
     technologies: [
       "ReadyAPI",
@@ -147,12 +146,10 @@ export const EXPERIENCES = [
     company: "Sharp Action Sports",
     companyWebsite: "https://www.linkedin.com/company/sharp-action-sports/?viewAsMember=true",
     description: [
-      `Partnered directly with early users to identify technical needs, shaping proof-of-concepts and MVP features aligned with real customer use cases and pre-sales engagement strategies.`,
-      `Conducted in-depth technical research and developed proof-of-concepts on emerging tools and frameworks, improving solution fit and enabling value-driven demonstrations.`,
-      `Designed and implemented security protocols aligned with industry compliance standards, strengthening trust with prospective users and key stakeholders.`,
-      `Led cross-functional collaboration between technical and non-technical teams to align engineering output with evolving market demands and business strategy.`,
-      `Defined and communicated the company’s technical roadmap in clear, accessible terms to internal leadership and external stakeholders, bridging technical feasibility and business impact.`,
-      `Proactively troubleshot and resolved infrastructure challenges, improving platform reliability and scalability in fast-paced, evolving environments.`
+      `Partnered with early users to conduct technical discovery, define requirements, and shape Proof of Concepts and MVP features aligned to real customer workflows.`,
+      `Designed and demonstrated prototype solutions, translating ambiguous business needs into clear technical implementations and value-driven demos.`,
+      `Led cross-functional collaboration between technical and non-technical stakeholders, aligning product direction with market needs and business goals.`,
+      `Defined and communicated the technical roadmap to internal leadership and external stakeholders, bridging feasibility, scope, and impact.`
     ],
     technologies: [
       "Next",
@@ -210,13 +207,10 @@ export const EXPERIENCES = [
     company: "General Dynamics Missions Systems",
     companyWebsite: "https://gdmissionsystems.com/",
     description: [
-      `Created standardized troubleshooting and procedural documentation, improving cross-team collaboration and reducing onboarding time through clearer knowledge transfer between senior and junior engineers.`,
-      `Mentored six new engineers on complex product domain concepts and internal workflows, accelerating technical ramp-up and enabling faster contributions to customer-facing features.`,
-      `Designed and implemented a VLAN feature using event-driven architecture and cryptographic principles to bridge UI and network interfaces, improving system communication and user experience.`,
-      `Contributed to feature development in C++ for real-time embedded systems, maintaining system stability and backward compatibility in mission-critical environments.`,
-      `Participated in Agile ceremonies and delivered on five major projects, applying CI/CD practices and test-driven development to support consistent, high-quality releases.`,
-      `Led over 20 code and security reviews to uphold strict DoD security and quality standards, ensuring reliability in sensitive and regulated environments.`,
-      `Managed complex debugging workflows and supported delivery of customer-ready builds through systematic testing, version control, and iterative feedback loops.`
+      `Contributed to feature development in C++ for real-time, mission-critical embedded systems, maintaining stability and backward compatibility in regulated environments.`,
+      `Created standardized troubleshooting and procedural documentation, reducing onboarding time and improving cross-team knowledge transfer.`,
+      `Mentored six junior engineers on complex system concepts and internal workflows, accelerating technical ramp-up and delivery.`,
+      `Participated in Agile ceremonies and delivered across five major projects using CI/CD and test-driven development practices.`
     ],
     technologies: ["C++", "IBM Rhapsody", "IBM ClearCase", "Linux"],
   },
