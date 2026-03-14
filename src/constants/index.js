@@ -40,7 +40,7 @@ export const HERO_CONTENT = `
 Solutions Engineer and military veteran with a strong foundation in software development and SaaS platforms. Experienced leading technical
 discovery, delivering tailored demos and Proofs of Concept (POCs), and supporting complex customer evaluations in partnership with Sales,
 Product, Marketing, and Engineering. Skilled at translating complex systems, integrations, and workflows into clear, outcome-driven narratives
-that accelerate adoption and technical decision-making. `;
+that accelerate adoption and technical decision-making.`;
 
 export const ABOUT_TEXT = `
 Solutions Engineer at SmartBear with a strong foundation in software engineering and a focus on pre-sales and customer-facing technical work. My background spans embedded systems at General Dynamics, full-stack web development through General Assembly, and technical mentorship in the U.S. Air Force.
@@ -98,31 +98,19 @@ export const CONTRIBUTIONS = [
 
 export const EXPERIENCES = [
   {
-    year: "September 2024 - Present",
+    year: "September 2024 - March 2026",
     role: "Solutions Engineer",
     company: "SmartBear",
     companyWebsite: "https://www.linkedin.com/company/smartbear/posts/?feedView=all",
     description: [
-      `Partnered with Account Executives to support technical discovery, customer evaluations, and Proofs of Concept (POCs), aligning SmartBear solutions to customer workflows and technical requirements.`,
-      `Designed and built customized demo environments used in live sales cycles, improving demonstration consistency and reducing preparation time for Solutions Engineers.`,
-      `Served as a technical resource during customer evaluations, addressing integration feasibility, API workflows, and platform capabilities across multiple SmartBear products.`,
-      `Created the Solutions Engineering Playbook to document repeatable demo workflows, evaluation best practices, and customer-facing processes, improving onboarding and cross-team alignment.`,
-      `Produced technical enablement content including blogs, certification courses, and demo walkthroughs to support internal teams and customer adoption.`,
-      `Delivered live product demonstrations at industry conferences and internal events, partnering with Sales, Product, Customer Success, and Marketing to showcase solution value.`
+      `Built and maintained complex demo environments across banking, retail, and utilities domains to showcase SmartBear solutions throughout the software development lifecycle, including API design, testing, observability, and release workflows.`,
+      `Expanded technical coverage across multiple SmartBear platforms enabling broader cross-product evaluations and stronger technical alignment across DevOps toolchains.`,
+      `Created the Solutions Engineering Playbook and supporting documentation, standardizing discovery, demo flows, and evaluation processes across the SE organization.`,
+      `Produced technical enablement content including blogs, webinars, and academy training videos to drive product adoption and strengthen developer engagement.`,
+      `Developed Salesforce reporting dashboards to track Sales Engineer attribution and engagement metrics, improving visibility into SE impact across active sales opportunities.`,
+      `Represented the Solutions Engineering organization at industry events and webinars to demonstrate product capabilities and generate developer and customer engagement.`
     ],
-    technologies: [
-      "ReadyAPI",
-      "SwaggerHub",
-      "PactFlow",
-      "Reflect",
-      "TestComplete",
-      "LoadNinja",
-      "VisualTest",
-      "BitBar",
-      "Full Stack Web Development",
-      "API Testing",
-      "UI Testing"
-    ],
+    technologies: [],
   },
   {
     year: "October 2025 - Present",
@@ -136,9 +124,7 @@ export const EXPERIENCES = [
       `Enhanced leadership and people-management capabilities through studies in organizational behavior and communication.`,
       `Completed a capstone project integrating analytics, management, and innovation, demonstrating the ability to align technical insight with organizational goals.`
     ],
-    technologies: [
-      "Excel"
-    ],
+    technologies: [],
   },
   {
     year: "May 2024 - October 2024",
@@ -151,22 +137,7 @@ export const EXPERIENCES = [
       `Led cross-functional collaboration between technical and non-technical stakeholders, aligning product direction with market needs and business goals.`,
       `Defined and communicated the technical roadmap to internal leadership and external stakeholders, bridging feasibility, scope, and impact.`
     ],
-    technologies: [
-      "Next",
-      "React",
-      "TypeScript",
-      "JavaScript",
-      "Node",
-      "Kinde",
-      "NeonTech",
-      "PostgreSQL",
-      "Tailwind CSS",
-      "CSS3",
-      "HTML5",
-      "Git",
-      "RESTful API",
-      "OAuth",
-    ],
+    technologies: [],
   },
   {
     year: "January 2024 - May 2024",
@@ -181,25 +152,7 @@ export const EXPERIENCES = [
       `Led and contributed to collaborative team projects through pair programming, code reviews, and live demos, clearly communicating complex technical concepts to diverse audiences.`,
       `Developed portfolio-ready applications demonstrating technical proficiency, adaptability, and customer-focused solution development.`
     ],
-    technologies: [
-      "React",
-      "TypeScript",
-      "JavaScript",
-      "Node",
-      "Jest",
-      "MongoDB",
-      "Mongoose",
-      "Express",
-      "Tailwind CSS",
-      "CSS3",
-      "HTML5",
-      "EJS",
-      "Git",
-      "Python",
-      "RESTful API",
-      "OAuth",
-      "Postman",
-    ],
+    technologies: [],
   },
   {
     year: "December 2021 - December 2023",
@@ -207,12 +160,11 @@ export const EXPERIENCES = [
     company: "General Dynamics Missions Systems",
     companyWebsite: "https://gdmissionsystems.com/",
     description: [
-      `Contributed to feature development in C++ for real-time, mission-critical embedded systems, maintaining stability and backward compatibility in regulated environments.`,
-      `Created standardized troubleshooting and procedural documentation, reducing onboarding time and improving cross-team knowledge transfer.`,
-      `Mentored six junior engineers on complex system concepts and internal workflows, accelerating technical ramp-up and delivery.`,
-      `Participated in Agile ceremonies and delivered across five major projects using CI/CD and test-driven development practices.`
+      `Contributed to systems architecture and C++ feature development for real-time, mission-critical embedded platforms in regulated defense environments, ensuring long-term stability and backward compatibility.`,
+      `Standardized troubleshooting and procedural documentation, reducing onboarding friction and improving cross-team knowledge transfer for complex embedded systems.`,
+      `Mentored six junior engineers on complex system architecture and internal workflows, accelerating ramp-up and improving delivery consistency across five concurrent projects.`
     ],
-    technologies: ["C++", "IBM Rhapsody", "IBM ClearCase", "Linux"],
+    technologies: [],
   },
   {
     year: "May 2019 - September 2019",
@@ -220,13 +172,13 @@ export const EXPERIENCES = [
     company: "Wilcox Industries",
     companyWebsite: "https://wilcoxind.com/",
     description: [
-      `Collaborated on a cross-functional team of four to develop a software prototype demonstrating the feasibility of a new research initiative, enabling continued development beyond the internship.`,
-      `Designed and implemented a custom Android UI/UX using Android Studio, Java, and Kotlin, supporting seamless Bluetooth and USB connectivity with an external camera.`,
-      `Contributed to full-stack development efforts across front-end interfaces, backend logic, and database integration in a production-adjacent environment.`,
-      `Partnered with senior engineers to solve complex technical challenges and iterate on feature designs based on user needs and hardware interaction constraints.`,
-      `Communicated technical findings and development progress to stakeholders, building early experience in product validation, technical storytelling, and customer-facing communication.`
+      `Collaborated on a cross-functional team of four to develop a software prototype demonstrating the feasibility of an innovative research initiative, paving the way for continued development post-internship.`,
+      `Designed and implemented a custom Android UI/UX interface using Android Studio, Java, Kotlin, CSS, and HTML, enabling seamless Bluetooth and USB connectivity with an external camera.`,
+      `Gained full-stack development experience by contributing to front-end interfaces, backend logic, and database integration in a production-adjacent environment.`,
+      `Partnered with senior engineers to solve complex technical problems and iterate on feature designs based on user needs and hardware interaction constraints.`,
+      `Practiced communicating technical findings and development progress to stakeholders, honing early-stage product validation and storytelling skills useful in customer-facing roles.`
     ],
-    technologies: ["Java", "Kotlin", "Android Studio", "HTML", "CSS"],
+    technologies: [],
   },
   {
     year: "August 2016 - August 2022",
@@ -234,23 +186,11 @@ export const EXPERIENCES = [
     company: "US Air National Guard",
     companyWebsite: "https://www.104fw.ang.af.mil/",
     description: [
-      `Provided hands-on mentorship and training to junior technicians in the maintenance and repair of F-15 fighter jets, fostering precision, accountability, and technical rigor.`,
-      `Completed Air Force Basic Training and a six-year enlistment, earning Veteran status and demonstrating long-term commitment, discipline, and resilience.`,
-      `Maintained detailed technical documentation of maintenance procedures and system histories in alignment with strict compliance and regulatory standards.`,
-      `Operated in high-stakes, fast-paced environments where adaptability and clear communication were critical to mission success, skills directly transferable to customer-facing technical roles.`,
-      `Adhered to and enforced rigorous safety protocols and regulatory requirements, ensuring operational readiness and system reliability.`
+      `Mentored junior technicians maintaining F-15 fighter aircraft to sustain operational readiness in high-reliability mission environments.`,
+      `Maintained precision technical documentation aligned with strict regulatory and safety standards, ensuring inspection compliance.`,
+      `Completed Air Force Basic Training and fulfilled a six-year enlistment, demonstrating discipline, accountability, and sustained performance.`
     ],
-    technologies: [
-      "Soft Skills",
-      "Tough Skin",
-      "Emotional Intelligence",
-      "Leadership",
-      "Self-Awareness",
-      "Time Management",
-      "Stress Management",
-      "Patience",
-      "Communication",
-    ],
+    technologies: [],
   },
   {
     year: "August 2016 - August 2021",
@@ -264,14 +204,7 @@ export const EXPERIENCES = [
       `Worked in team-based design and development environments, strengthening collaboration, communication, and project planning skills.`,
       `Participated in extracurricular organizations including Theta Chi Fraternity and Big Brother Big Sister, demonstrating leadership, mentorship, and community engagement.`
     ],
-    technologies: [
-      "Software Development",
-      "Algorithms",
-      "Data Structures",
-      "Object-Oriented Programming",
-      "Security Engineering",
-      "Presentation Skills",
-    ],
+    technologies: [],
   },
 ];
 
