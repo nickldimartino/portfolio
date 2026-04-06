@@ -100,7 +100,7 @@ export const EXPERIENCES = [
   {
     year: "April 2026 - Present",
     role: "Lead Solutions Engineer",
-    company: "SmartBear",
+    company: "Freshworks",
     companyWebsite: "https://www.freshworks.com/freshservice/firehydrant/",
     description: [
       `Led enterprise technical engagements for Freshworks’ Employee Experience platform, with a focus on FireHydrant incident management, guiding customers through discovery, solution design, and platform evaluation across complex service and reliability environments.`,
