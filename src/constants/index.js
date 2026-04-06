@@ -37,23 +37,23 @@ export const navLinks = [
 ];
 
 export const HERO_CONTENT = `
-Solutions Engineer and military veteran with a strong foundation in software development and SaaS platforms. Experienced leading technical
-discovery, delivering tailored demos and Proofs of Concept (POCs), and supporting complex customer evaluations in partnership with Sales,
-Product, Marketing, and Engineering. Skilled at translating complex systems, integrations, and workflows into clear, outcome-driven narratives
-that accelerate adoption and technical decision-making.`;
+Lead Solutions Engineer and military veteran with a strong foundation in software development and enterprise SaaS platforms. Experienced leading technical discovery, architecting tailored demonstrations, and delivering Proofs of Concept (POCs) that support complex enterprise evaluations across service management, reliability, and developer platform environments.
+
+Partner closely with Sales, Product, Marketing, and Engineering to guide organizations through solution design, technical validation, and platform adoption. Skilled at translating complex APIs, integrations, and operational workflows into clear, outcome-driven narratives that help technical and business stakeholders confidently evaluate and adopt modern platforms.
+`;
 
 export const ABOUT_TEXT = `
-Solutions Engineer at SmartBear with a strong foundation in software engineering and a focus on pre-sales and customer-facing technical work. My background spans embedded systems at General Dynamics, full-stack web development through General Assembly, and technical mentorship in the U.S. Air Force.
+Lead Solutions Engineer at Freshworks with a strong foundation in software engineering and a focus on enterprise pre-sales and customer-facing technical engagements. My background spans embedded systems at General Dynamics Mission Systems, full-stack web development through General Assembly, and technical mentorship in the United States Air Force.
 
-I transitioned into Solutions Engineering to focus on what I enjoy most: solving real customer problems through tailored demos, proof-of-concepts, and clear, narrative-driven technical explanations. At SmartBear, I partner closely with Sales and Product teams to support customer evaluations across the pre- and post-sales lifecycle, from discovery and demos through implementation, validation, and ongoing technical alignment.
+I moved into Solutions Engineering to focus on what I enjoy most: solving real customer problems through tailored demos, proofs of concept, and clear, narrative-driven technical communication. At Freshworks, I lead enterprise technical engagements supporting evaluations of service management and reliability platforms, including incident management capabilities from FireHydrant. I partner closely with Sales, Product, and Customer Success teams to guide organizations through discovery, solution design, and technical validation across complex operational environments.
 
-My work centers on showcasing the value of API testing and quality tooling by crafting demos aligned to the priorities of engineers, QA teams, and business decision-makers. I specialize in translating complex systems, integrations, and workflows into clear outcomes that help customers make confident technical decisions.
+Previously at SmartBear, I supported enterprise customers across the software development lifecycle with a focus on API testing, quality engineering, and DevOps tooling. My work centered on crafting demonstrations and proof-of-concepts aligned to the priorities of engineers, QA teams, and technical decision-makers. I specialize in translating complex APIs, integrations, and developer workflows into clear outcomes that help teams evaluate platforms and make confident technical decisions.
 
-My military background instilled discipline, structure, and attention to detail which are traits that shape my approach to customer engagement, demo design, and solution development. Whether leading POCs, supporting RFPs, or aligning solutions to business goals, I bring a methodical, preparation-driven mindset to every engagement.
+My military background instilled discipline, structure, and attention to detail—traits that shape how I approach customer engagement, demo design, and solution development. Whether leading POCs, supporting RFP responses, or aligning technical capabilities with business goals, I bring a methodical, preparation-driven mindset to every engagement.
 
-I’m currently pursuing an M.S. in Engineering Management to strengthen my ability to lead technical initiatives and support data-driven decision-making in complex organizations.
+I’m currently pursuing an M.S. in Engineering Management at Arkansas State University to strengthen my ability to lead technical initiatives and support data-driven decision-making in complex organizations.
 
-I enjoy sharing what I’ve learned about software, Solutions Engineering, and effective technical communication. Let’s connect if you want to talk APIs, demos, or building strong technical careers.`;
+I enjoy sharing what I’ve learned about software, Solutions Engineering, and effective technical communication. Let’s connect if you want to talk APIs, demos, reliability platforms, or building strong technical careers.`;
 
 
 export const CONTRIBUTIONS = [
@@ -97,6 +97,20 @@ export const CONTRIBUTIONS = [
 
 
 export const EXPERIENCES = [
+  {
+    year: "April 2026 - Present",
+    role: "Lead Solutions Engineer",
+    company: "SmartBear",
+    companyWebsite: "https://www.freshworks.com/freshservice/firehydrant/",
+    description: [
+      `Led enterprise technical engagements for Freshworks’ Employee Experience platform, with a focus on FireHydrant incident management, guiding customers through discovery, solution design, and platform evaluation across complex service and reliability environments.`,
+      `Partnered with Account Executives to advance multi-stakeholder enterprise sales cycles through tailored demonstrations and technical validation for ITSM, ITAM, and ESM workflows.`,
+      `Architected solution demonstrations modeling real-world service operations, integrating automation and workflows to illustrate operational impact and accelerate technical validation during evaluations.`,
+      `Translated customer business and technical requirements into scalable platform configurations that modernized service workflows and strengthened evaluation outcomes.`,
+      `Acted as a trusted technical advisor aligning Freshworks capabilities with customer goals around service eﬃciency and employee productivity to strengthen technical buy-in across stakeholder groups.`,
+    ],
+    technologies: [],
+  },
   {
     year: "September 2024 - March 2026",
     role: "Solutions Engineer",
